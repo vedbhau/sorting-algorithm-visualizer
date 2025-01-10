@@ -8,8 +8,8 @@ This Python-based GUI application demonstrates sorting algorithms with stunning 
 ## ✨ Features
 
 - Visualize **Insertion Sort**, **Bubble Sort**, and **Selection Sort** in action! 🪄  
-- Customize the number of bars to sort. 🧱  
-- Dynamic animations for swapping bars. 🔄  
+- Customize the number of bars to sort. 
+- Dynamic animations for swapping bars.
 - Easy-to-use graphical interface powered by **Tkinter**. 🎨  
 - See the smallest and largest bars highlighted in real-time:
   - 🔴 Smallest bar
